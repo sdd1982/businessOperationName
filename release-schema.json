@@ -1,0 +1,20 @@
+{
+  "definitions": {
+    "Organization": {
+      "properties": {
+        "details": {
+          "properties": {
+            "businessOperationName": {
+              "title": "businessOperationName",
+              "description": "Nombre de la unidad de negocio de la parte u organización",
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
