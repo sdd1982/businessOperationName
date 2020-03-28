@@ -4,13 +4,10 @@
       "properties": {
         "details": {
           "properties": {
-            "businessOperationName": {
-              "title": "businessOperationName",
+            "BusinessOperationName": {
+              "type": "string",
               "description": "Nombre de la unidad de negocio de la parte u organización",
-              "type": [
-                "string",
-                "null"
-              ]
+              "title": "Nombre de la unidad de negocio"
             }
           }
         }

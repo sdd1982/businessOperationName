@@ -1,1 +1,17 @@
-{"name":{"en":"businessOperationName"},"description":{"en":"Nombre de la unidad de negocio de la parte u organización"},"documentationUrl":{"en":"https://github.com/sdd1982/businessOperationName/blob/master/README.md"}}
+{
+  "name": {
+    "en": "BusinessOperationName"
+  },
+  "description": {
+    "en": "Nombre de la unidad de negocio de la parte u organización"
+  },
+  "documentationUrl": {
+    "en": "https://github.com/sdd1982/BusinessOperationName/blob/master/README.md"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ]
+}
